@@ -8,5 +8,5 @@ This project is developed based on the following open-sourced projects:
  * [SurroundOcc](https://github.com/weiyithu/SurroundOcc)
  * [BEVDet](https://github.com/HuangJunJie2017/BEVDet)
  * [Lift, Splat, Shoot](https://github.com/nv-tlabs/lift-splat-shoot)
- * [MonoOcc](https://github.com/ucaszyp/MonoOcc)
+
 Many thanks for their excellent work.
