@@ -19,7 +19,7 @@ WildOcc_V2.0
 **2. Download our generated dense occupancy labels (resolution 100x100x40 with voxel size 0.2m) and put and unzip it in data.**
 | Resolution | Range | Link | Size |
 | :---: | :---: | :---: | :---: |
-| 160, 160, 40 | [0, -16, -2, 32, 16, 6] | [link](https://pan.baidu.com/s/YcvsSItDWVpfQdtHny1OgQ) code: 2wn9| 18.08G |
+| 160, 160, 40 | [0, -16, -2, 32, 16, 6] | [link](https://pan.baidu.com/s/1YcvsSItDWVpfQdtHny1OgQ?pwd=2wn9) code: 2wn9| 18.08G |
 
 Please note that: <br/>
 1. The shape of each npy file is (n,4), where n is the number of non-empty occupancies. Four dimensions represent xyz and semantic label respectively. <br/>
